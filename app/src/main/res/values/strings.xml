@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArduinoBluetooth</string>
+    <string name="encender">Encender</string>
+    <string name="apagar">Apagar</string>
+</resources>
